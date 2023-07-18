@@ -6,7 +6,7 @@ import { Button, Heading, Hr, Img, Section, Text } from './_components'
 import Layout from './Layout'
 
 const NewGuestbookEmail = ({
-  link = 'https://caliso/guestbook',
+  link = 'https://thewavely.com/guestbook',
   userFirstName = 'Cali',
   userLastName = 'Castle',
   userImageUrl = 'https://cali.so/icon.png',

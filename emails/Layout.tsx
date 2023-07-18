@@ -44,7 +44,7 @@ export default function Layout({
               />
               <Text className="text-center">
                 <Link
-                  href="https://cali.so"
+                  href="https://thewavely.com"
                   className="text-zinc-700 underline"
                 >
                   <strong>Cali Castle</strong>
