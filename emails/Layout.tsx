@@ -47,14 +47,14 @@ export default function Layout({
                   href="https://thewavely.com"
                   className="text-zinc-700 underline"
                 >
-                  <strong>Cali Castle</strong>
+                  <strong>The Wavely</strong>
                 </Link>
                 <br />
-                开发者、设计师、细节控、创始人
+                一站式双语外刊
               </Text>
               <Text className="text-center">
                 <Link
-                  href="https://cali.so/twitter"
+                  href="https://twitter.com/thewavely"
                   className="text-xs text-zinc-600 underline"
                 >
                   Twitter
