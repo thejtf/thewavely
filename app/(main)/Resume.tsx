@@ -2,10 +2,10 @@ import Image, { type StaticImageData } from 'next/image'
 import React from 'react'
 
 import { BriefcaseIcon } from '~/assets'
-import eightNinthsLogo from '~/assets/company/8ninths.jpeg'
-import abletiveLogo from '~/assets/company/abletive.png'
-import vvsLogo from '~/assets/company/vvs.png'
-import zolplayLogo from '~/assets/company/zolplay.png'
+import eightNinthsLogo from '~/assets/company/adelaide.gif'
+import abletiveLogo from '~/assets/company/charles.jpeg'
+import vvsLogo from '~/assets/company/jony.gif'
+import zolplayLogo from '~/assets/company/laura.gif'
 
 type Resume = {
   company: string
@@ -37,7 +37,7 @@ const resume: Resume[] = [
     title: '审核编辑',
     logo: eightNinthsLogo,
     start: '2020级',
-    end: '英国曼彻斯特大学',
+    end: '曼彻斯特大学',
   },
   {
     company: 'Charles',
