@@ -80,7 +80,7 @@ export function Headline() {
         }}
       >
         <Balancer>
-          阅读，是人们认识这个世界的方式。
+          我们终将改变潮水的方向，
           <PeekabooLink href="https://thewavely.com">浪潮外刊 The Wavely</PeekabooLink>
           是一本致力于打破信息差，增强应试临场感的互动式双语外刊。
         </Balancer>
