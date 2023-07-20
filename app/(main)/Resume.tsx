@@ -16,35 +16,35 @@ type Resume = {
 }
 const resume: Resume[] = [
   {
-    company: '深圳市佐玩信息技术有限公司',
-    title: '创始人 CEO',
+    company: 'Laura',
+    title: '内容总编',
     logo: zolplayLogo,
-    start: '2021',
+    start: '2021级',
     end: {
-      label: '至今',
+      label: '哈尔滨工业大学',
       dateTime: new Date().getFullYear(),
     },
   },
   {
-    company: 'very very spaceship',
-    title: '软件工程师',
+    company: 'Jony',
+    title: '运营编辑',
     logo: vvsLogo,
-    start: '2018',
-    end: '2020',
+    start: '2020级',
+    end: '北京外国语大学',
   },
   {
-    company: '8ninths Inc.',
-    title: 'AR & 全栈工程师',
+    company: 'Adelaide',
+    title: '审核编辑',
     logo: eightNinthsLogo,
-    start: '2017',
-    end: '2018',
+    start: '2020级',
+    end: '英国曼彻斯特大学',
   },
   {
-    company: 'Abletive',
-    title: '创始人',
+    company: 'Charles',
+    title: '助理编辑',
     logo: abletiveLogo,
-    start: '2014',
-    end: '2016',
+    start: '2022级',
+    end: '北京大学',
   },
 ]
 
@@ -65,7 +65,7 @@ export function Resume() {
     <div className="rounded-2xl border border-zinc-100 p-6 dark:border-zinc-700/40">
       <h2 className="flex items-center text-sm font-semibold text-zinc-900 dark:text-zinc-100">
         <BriefcaseIcon className="h-5 w-5 flex-none" />
-        <span className="ml-2">工作经历</span>
+        <span className="ml-2">团队成员</span>
       </h2>
       <ol className="mt-6 space-y-4">
         {resume.map((role, roleIndex) => (
