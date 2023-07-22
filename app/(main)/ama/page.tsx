@@ -8,7 +8,7 @@ import AlipayQR from './alipay-qr.jpg'
 import ThankYouLetterScreenshot1 from './Arc aagD26w9@2x.png'
 import ThankYouLetterScreenshot2 from './Arc ynleUdHy@2x.png'
 
-const title = 'AMA 一对一咨询'
+const title = '精读营'
 const description =
   'Cali 提供一对一的咨询服务（Ask Me Anything）。我有前端开发、全栈开发、UI/UX 设计、创业经验、英语技能、美国留学与工作、内容创作等经验，可以为你解答相关的问题，我也支持纯英语沟通。'
 
