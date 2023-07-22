@@ -80,7 +80,7 @@ export function Headline() {
         }}
       >
         <Balancer>
-          众所周知，阅读一直以来都是人们认识世界的方式。
+          我们不生产外刊，我们只是优质外刊的搬运工。
           <PeekabooLink href="https://thewavely.com">浪潮外刊TheWavely</PeekabooLink>
           是一本致力于打破信息差，增强应试临场感的互动式双语电子外刊。
         </Balancer>
