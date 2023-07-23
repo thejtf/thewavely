@@ -9,9 +9,9 @@ const NewReplyCommentEmail = ({
   postLink = 'https://thewavely.com',
   postTitle = '测试文章 Lorem ipsum dolor sit amet, consectetur adipisicing elit',
   postImageUrl = 'https://cn.zolplay.com/api/og?title=测试文章',
-  userFirstName = 'Cali',
-  userLastName = 'Castle',
-  userImageUrl = 'https://cali.so/icon.png',
+  userFirstName = '浪潮外刊',
+  userLastName = 'TheWavely',
+  userImageUrl = 'https://thewavely.com/icon.png',
   commentContent = '*测试评论*\n- Wow wtf\n- Cool',
 }: {
   postLink?: string | null

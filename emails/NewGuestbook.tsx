@@ -9,7 +9,7 @@ const NewGuestbookEmail = ({
   link = 'https://thewavely.com/guestbook',
   userFirstName = 'Cali',
   userLastName = 'Castle',
-  userImageUrl = 'https://cali.so/icon.png',
+  userImageUrl = 'https://thewavely.com/icon.png',
   commentContent = '*测试评论*\n- Wow wtf\n- Cool',
 }: {
   link?: string | null
