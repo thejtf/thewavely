@@ -40,7 +40,6 @@ export default function AskMeAnythingPage() {
 
       <article className="prose dark:prose-invert">
         <h2>课程介绍</h2>
-        <h3>01-课程主要解决哪些问题？</h3>
         <p>本课程主要解决以下问题：</p>
         <ul>
           <li>
@@ -63,7 +62,6 @@ export default function AskMeAnythingPage() {
           我们团队全程跟踪训练营同学，追踪大家的学习进度，提高优化学习路径。
         </p>
         
-
         <h2>定价</h2>
         <p>我们目前加入训练营的价格为：</p>
         <ul>
