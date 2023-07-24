@@ -40,12 +40,11 @@ export default function AskMeAnythingPage() {
 
       <article className="prose dark:prose-invert">
         <h2>精读营介绍</h2>
-        <p>我们可以为你解决以下相关问题：</p>
+        <p>我们提供以下相关服务：</p>
         <ul>
           <li>
-            <b>前端/全栈开发</b>
-            ：工作难找，或是寻求职场建议？想提升自己的工程师水平？还是想锐评
-            React vs Vue？
+            <b>课程内容</b>
+            ：文章精选顶级杂志、原文解析、考纲必备词汇、长难句解析、翻译训练等。
           </li>
           <li>
             <b>UI/UX 设计</b>：不知道如何开始学习设计？想提升自己的设计水平？
