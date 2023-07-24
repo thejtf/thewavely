@@ -51,12 +51,8 @@ export default function AskMeAnythingPage() {
             ：周一至周五提供近期精读PDF，支持下载保存，手机和电脑都可学习。
           </li>
           <li>
-            <b>创业经验</b>
-            ：我是
-            <RichLink href="https://zolplay.com" target="_blank">
-              佐玩
-            </RichLink>
-            的创始人，现在带领着团队帮助游戏开发者打造协同平台。
+            <b>适合人群</b>
+            ：考研、雅思、GRE备考的相关同学、已工作人士、高校在校师生等。
           </li>
           <li>
             <b>英语技能</b>：英语能力不足，想提高自己的英语水平？想跟 Cali
