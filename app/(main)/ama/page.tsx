@@ -55,16 +55,8 @@ export default function AskMeAnythingPage() {
             ：考研、雅思、GRE备考的相关同学、已工作人士、高校在校师生等。
           </li>
           <li>
-            <b>英语技能</b>：英语能力不足，想提高自己的英语水平？想跟 Cali
-            一样可以{' '}
-            <RichLink
-              href="https://y.qq.com/n/ryqq/songDetail/003c0O9B3firAU"
-              favicon={false}
-              target="_blank"
-            >
-              英文说唱
-            </RichLink>
-            ？
+            <b>教学团队</b>
+            ：由来自北大、哈工大等国内国际名校的编辑组成，有丰富外刊阅读经验。
           </li>
           <li>
             <b>其他</b>
