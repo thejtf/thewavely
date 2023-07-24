@@ -39,53 +39,78 @@ export default function AskMeAnythingPage() {
       </header>
 
       <article className="prose dark:prose-invert">
-        <h2>课程介绍</h2>
-        <p>本课程主要解决以下问题：</p>
+        <h2>咨询内容</h2>
+        <p>我可以为你解答以下相关的问题：</p>
         <ul>
           <li>
-            <b>不知如何坚持？</b>：我们提供轻松有效的阅读SOP。
+            <b>前端/全栈开发</b>
+            ：工作难找，或是寻求职场建议？想提升自己的工程师水平？还是想锐评
+            React vs Vue？
           </li>
           <li>
-            <b>记单词效率低？</b>：我们通过科学遗忘曲线帮你优化记忆方式。
+            <b>UI/UX 设计</b>：不知道如何开始学习设计？想提升自己的设计水平？
           </li>
           <li>
-            <b>难理解文章大意？</b>：我们通过简述总结帮你理解背景信息。
+            <b>创业经验</b>
+            ：我是
+            <RichLink href="https://zolplay.com" target="_blank">
+              佐玩
+            </RichLink>
+            的创始人，现在带领着团队帮助游戏开发者打造协同平台。
           </li>
           <li>
-            <b>语法基础较弱？</b>：长难句逻辑分析提高理解文章句意能力。
+            <b>英语技能</b>：英语能力不足，想提高自己的英语水平？想跟 Cali
+            一样可以{' '}
+            <RichLink
+              href="https://y.qq.com/n/ryqq/songDetail/003c0O9B3firAU"
+              favicon={false}
+              target="_blank"
+            >
+              英文说唱
+            </RichLink>
+            ？
           </li>
           <li>
-            <b>写作无思路？</b>：通过长期阅读积累语感和奠定写作基础。
+            <b>其他</b>
+            ：我的美国留学与工作经验，内容创作，音乐制作经验等等都可以帮助你解答一些其他的问题。
           </li>
         </ul>
         <p>
-          我们团队全程跟踪训练营同学，追踪大家的学习进度，提高优化学习路径。
+          你也可以全程跟我用英语聊，我也非常乐意，因为可能我的英语比中文说的要好。。。
         </p>
-        
+
         <h2>定价</h2>
-        <p>我们目前加入训练营的价格为：</p>
+        <p>我的一对一咨询的价格为：</p>
         <ul>
           <li>
-            <strong>¥129 - 三个月</strong>
+            <strong>¥150 - 30分钟</strong>
           </li>
           <li>
-            <strong>¥199 - 半年期</strong>
+            <strong>¥300 - 60分钟</strong>
           </li>
         </ul>
 
         <p className="flex justify-center md:block md:justify-start">
           <span className="inline-flex flex-col items-center">
             <Image src={AlipayQR} alt="" className="w-44 dark:brightness-90" />
-            <span className="mt-1 text-sm font-medium">小助手二维码</span>
+            <span className="mt-1 text-sm font-medium">支付宝二维码</span>
           </span>
         </p>
         <p>
-          清扫描上方二维码加助理编辑的微信，并注明来意。一旦你按照操作完成支付，即可入营。
+          一旦你完成支付，通过{' '}
+          <RichLink
+            href="https://cal.com/calicastle/ask-me-anything"
+            target="_blank"
+          >
+            这个链接
+          </RichLink>
+          来跟我预约一个合适你的时间。
         </p>
 
         <h2>感谢信</h2>
         <p>
-          下面两个截图摘选自两名训练营入营同学的评价，能够帮助到更多的人提高英语能力一直是我们的使命：
+          下面两个截图摘选自两名 Twitter
+          朋友的私信，能够帮助到更多的人一直是我的使命：
         </p>
         <p className="grid items-center gap-4 lg:grid-cols-2">
           <Image
