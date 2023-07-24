@@ -11,7 +11,7 @@ const ConfirmSubscriptionEmail = ({ link = 'link.com/confirm?fake-token' }) => {
     <Layout previewText={previewText}>
       <Section className="mt-[24px]">
         <Img
-          src={`${emailConfig.baseUrl}/subscription-email-header.jpg`}
+          src={`https://cdn.jsdelivr.net/gh/thejtf/AssetsRepo/subscription-email-header.jpg`}
           width="250"
           height="129.28"
           alt="Cali"
