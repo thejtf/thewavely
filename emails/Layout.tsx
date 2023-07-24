@@ -36,7 +36,7 @@ export default function Layout({
             <Hr className="mx-0 my-[20px] h-px w-full bg-zinc-100" />
             <Section>
               <Img
-                src={`${emailConfig.baseUrl}/icon.png`}
+                src={`https://cdn.jsdelivr.net/gh/thejtf/AssetsRepo/icon.png`}
                 width="24"
                 height="24"
                 alt="Cali"
@@ -47,38 +47,24 @@ export default function Layout({
                   href="https://thewavely.com"
                   className="text-zinc-700 underline"
                 >
-                  <strong>The Wavely</strong>
+                  <strong>浪潮外刊TheWavely</strong>
                 </Link>
                 <br />
                 一站式双语外刊
               </Text>
               <Text className="text-center">
                 <Link
-                  href="https://twitter.com/thewavely"
+                  href="https://thewavely.com"
                   className="text-xs text-zinc-600 underline"
                 >
-                  Twitter
+                  官方网站
                 </Link>{' '}
                 |&nbsp;
                 <Link
-                  href="https://twitter.com/thewavely"
+                  href="https://thewavely.com"
                   className="text-xs text-zinc-600 underline"
                 >
-                  YouTube
-                </Link>{' '}
-                |&nbsp;
-                <Link
-                  href="https://twitter.com/thewavely"
-                  className="text-xs text-zinc-600 underline"
-                >
-                  GitHub
-                </Link>{' '}
-                |&nbsp;
-                <Link
-                  href="https://twitter.com/thewavely"
-                  className="text-xs text-zinc-600 underline"
-                >
-                  哔哩哔哩
+                  thewavely.com
                 </Link>
               </Text>
             </Section>
