@@ -10,7 +10,7 @@ import ThankYouLetterScreenshot2 from './Arc ynleUdHy@2x.png'
 
 const title = '精读营'
 const description =
-  '浪潮外刊TheWavely一直致力于用轻松有效的方式提升英语能力，我们坚持“学以致用”的理念，用正确的方法帮助大家在工作、考试中提升英语能力。我们努力让英语学习不再枯燥，而是在乐趣中感受语言的魅力。'
+  '浪潮外刊 TheWavely 一直致力于用轻松有效的方式提升英语能力，我们坚持“学以致用”的理念，用正确的方法帮助大家在工作、考试中提升英语能力。我们努力让英语学习不再枯燥，而是在乐趣中感受语言的魅力。'
 
 export const metadata = {
   title,
@@ -81,18 +81,18 @@ export default function AskMeAnythingPage() {
         <p className="flex justify-center md:block md:justify-start">
           <span className="inline-flex flex-col items-center">
             <Image src={AlipayQR} alt="" className="w-44 dark:brightness-90" />
-            <span className="mt-1 text-sm font-medium">支付宝二维码</span>
+            <span className="mt-1 text-sm font-medium">小助理二维码</span>
           </span>
         </p>
         <p>
-          一旦你完成支付，通过{' '}
+          添加时请注明来意为，加入{' '}
           <RichLink
-            href="https://cal.com/calicastle/ask-me-anything"
+            href="https://thewavely.com"
             target="_blank"
           >
-            这个链接
+            精读营
           </RichLink>
-          来跟我预约一个合适你的时间。
+          根据小助理提示完成支付验证后，即可入营。
         </p>
 
         <h2>感谢信</h2>
