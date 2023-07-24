@@ -39,8 +39,8 @@ export default function AskMeAnythingPage() {
       </header>
 
       <article className="prose dark:prose-invert">
-        <h2>咨询内容</h2>
-        <p>我可以为你解答以下相关的问题：</p>
+        <h2>精读营介绍</h2>
+        <p>我们可以为你解决以下相关问题：</p>
         <ul>
           <li>
             <b>前端/全栈开发</b>
