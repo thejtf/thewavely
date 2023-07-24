@@ -10,7 +10,7 @@ import ThankYouLetterScreenshot2 from './Arc ynleUdHy@2x.png'
 
 const title = '精读营'
 const description =
-  'Cali 提供一对一的咨询服务（Ask Me Anything）。我有前端开发、全栈开发、UI/UX 设计、创业经验、英语技能、美国留学与工作、内容创作等经验，可以为你解答相关的问题，我也支持纯英语沟通。'
+  '浪潮外刊TheWavely一直致力于用轻松有效的方式提升英语能力，我们坚持“学以致用”的理念，用正确的方法帮助大家在工作、考试中提升英语能力。我们努力让英语学习不再枯燥，而是在乐趣中感受语言的魅力。'
 
 export const metadata = {
   title,
