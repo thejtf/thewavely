@@ -64,7 +64,7 @@ export default function AskMeAnythingPage() {
           </li>
         </ul>
         <p>
-          你也可以全程跟我用英语聊，我也非常乐意，因为可能我的英语比中文说的要好。。。
+          不仅如此，加入 ReadingClub 还可以结识很多志同道合的良师益友，共同进步！
         </p>
 
         <h2>定价</h2>
