@@ -64,17 +64,17 @@ export default function AskMeAnythingPage() {
           </li>
         </ul>
         <p>
-          不仅如此，加入 ReadingClub 还可以结识很多志同道合的良师益友，共同进步！
+          不仅如此，加入 Reading Club 还可以结识很多志同道合的良师益友，共同进步！
         </p>
 
-        <h2>定价</h2>
-        <p>我的一对一咨询的价格为：</p>
+        <h2>精读营定价</h2>
+        <p>加入 Reading Club 的价格为：</p>
         <ul>
           <li>
-            <strong>¥150 - 30分钟</strong>
+            <strong>¥129 - 三个月</strong>
           </li>
           <li>
-            <strong>¥300 - 60分钟</strong>
+            <strong>¥199 - 半年期</strong>
           </li>
         </ul>
 
