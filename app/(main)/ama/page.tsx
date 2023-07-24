@@ -39,78 +39,85 @@ export default function AskMeAnythingPage() {
       </header>
 
       <article className="prose dark:prose-invert">
-        <h2>咨询内容</h2>
-        <p>我可以为你解答以下相关的问题：</p>
+        <h2>课程介绍</h2>
+        <h3>01-课程主要解决哪些问题？</h3>
+        <p>本课程主要解决以下问题：</p>
         <ul>
           <li>
-            <b>前端/全栈开发</b>
-            ：工作难找，或是寻求职场建议？想提升自己的工程师水平？还是想锐评
-            React vs Vue？
+            <b>不知如何坚持？</b>：我们提供轻松有效的阅读SOP。
           </li>
           <li>
-            <b>UI/UX 设计</b>：不知道如何开始学习设计？想提升自己的设计水平？
+            <b>记单词效率低？</b>：我们通过科学遗忘曲线帮你优化记忆方式。
           </li>
           <li>
-            <b>创业经验</b>
-            ：我是
-            <RichLink href="https://zolplay.com" target="_blank">
-              佐玩
-            </RichLink>
-            的创始人，现在带领着团队帮助游戏开发者打造协同平台。
+            <b>难理解文章大意？</b>：我们通过简述总结帮你理解背景信息。
           </li>
           <li>
-            <b>英语技能</b>：英语能力不足，想提高自己的英语水平？想跟 Cali
-            一样可以{' '}
-            <RichLink
-              href="https://y.qq.com/n/ryqq/songDetail/003c0O9B3firAU"
-              favicon={false}
-              target="_blank"
-            >
-              英文说唱
-            </RichLink>
-            ？
+            <b>语法基础较弱？</b>：长难句逻辑分析提高理解文章句意能力。
           </li>
           <li>
-            <b>其他</b>
-            ：我的美国留学与工作经验，内容创作，音乐制作经验等等都可以帮助你解答一些其他的问题。
+            <b>写作无思路？</b>：通过长期阅读积累语感和奠定写作基础。
           </li>
         </ul>
         <p>
-          你也可以全程跟我用英语聊，我也非常乐意，因为可能我的英语比中文说的要好。。。
+          我们团队全程跟踪训练营同学，追踪大家的学习进度，提高优化学习路径。
         </p>
+        <h3>02-课程安排</h3>
+        <ul>
+          <li>每周一至周五，提供当天的外刊精读教程，没有旧文章。</li>
+          <li>每周六周日为复习日，巩固知识点。</li>
+          <li>提供PDF版教程，支持下载保存，手机和电脑都可学习。</li>
+        </ul>
+        <h3>03-课程内容</h3>
+        <ul>
+          <li>文章选自顶级外刊杂志,实用价值高。</li>
+          <li>每篇包含：原文音频、考纲词汇、长难句分析、翻译训练等。</li>
+          <li>翻译版本多层审校，确保地道准确。</li>
+        </ul>
+        <h3>04-适合人群</h3>
+        <ul>
+          <li>考研、雅思等考试学员。</li>
+          <li>工作人士，提升英语能力。</li>
+          <li>在校学生和教师，丰富知识面。</li>
+        </ul>
+        <h3>05-教学团队</h3>
+        <ul>
+          <li>由来自北大、哈工大等国际名校的导师组成。</li>
+          <li>10余年丰富的外刊阅读学习经验，保证质量。</li>
+        </ul>
+        <h3>06-课程优势</h3>
+        <ul>
+          <li>文章新鲜，完整篇章，实用性强</li>
+          <li>注释深入，例句贴合原文。</li>
+          <li>翻译地道流畅，语法逻辑兼顾。</li>
+          <li>版式精美，支持下载保存。</li>
+          <li>内容随着时间持续优化完善。</li>
+        </ul>
 
         <h2>定价</h2>
-        <p>我的一对一咨询的价格为：</p>
+        <p>我们目前加入训练营的价格为：</p>
         <ul>
           <li>
-            <strong>¥150 - 30分钟</strong>
+            <strong>¥129 - 三个月</strong>
           </li>
           <li>
-            <strong>¥300 - 60分钟</strong>
+            <strong>¥199 - 半年期</strong>
           </li>
         </ul>
 
         <p className="flex justify-center md:block md:justify-start">
           <span className="inline-flex flex-col items-center">
             <Image src={AlipayQR} alt="" className="w-44 dark:brightness-90" />
-            <span className="mt-1 text-sm font-medium">支付宝二维码</span>
+            <span className="mt-1 text-sm font-medium">小助手二维码</span>
           </span>
         </p>
         <p>
-          一旦你完成支付，通过{' '}
-          <RichLink
-            href="https://cal.com/calicastle/ask-me-anything"
-            target="_blank"
-          >
-            这个链接
-          </RichLink>
-          来跟我预约一个合适你的时间。
+          清扫描上方二维码加助理编辑的微信，并注明来意。一旦你按照操作完成支付，即可入营。
         </p>
 
         <h2>感谢信</h2>
         <p>
-          下面两个截图摘选自两名 Twitter
-          朋友的私信，能够帮助到更多的人一直是我的使命：
+          下面两个截图摘选自两名训练营入营同学的评价，能够帮助到更多的人提高英语能力一直是我们的使命：
         </p>
         <p className="grid items-center gap-4 lg:grid-cols-2">
           <Image
