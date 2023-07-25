@@ -92,13 +92,13 @@ export default function AskMeAnythingPage() {
           >
             加入精读营
           </RichLink>
-          然后，根据小助理提示完成支付验证后，即可入营。
+          。然后，根据小助理提示完成支付验证后，即可入营。
         </p>
 
         <h2>成员评价</h2>
         <p>
-          下面两个截图摘选自两名 Twitter
-          朋友的私信，能够帮助到更多的人一直是我的使命：
+          下面两个截图摘选自两名 同学
+          的分享，阅读外刊不仅提高应试能力还能提高人的视野：
         </p>
         <p className="grid items-center gap-4 lg:grid-cols-2">
           <Image
