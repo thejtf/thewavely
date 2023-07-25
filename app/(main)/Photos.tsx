@@ -59,7 +59,7 @@ export function Photos() {
         {images.map((image, idx) => (
           <motion.div
             key={image.src}
-            className="relative h-40 flex-none shrink-0 snap-start overflow-hidden rounded-xl bg-zinc-100 ring-2 ring-lime-800/20 dark:bg-zinc-800 dark:ring-lime-300/10 md:h-72 md:rounded-3xl"
+            className="relative h-40 flex-none shrink-0 snap-start overflow-hidden rounded-xl bg-zinc-100 ring-2 ring-sky-800/20 dark:bg-zinc-800 dark:ring-sky-300/10 md:h-72 md:rounded-3xl"
             animate={{
               width,
               opacity: isCompact ? 1 : 0.85,

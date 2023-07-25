@@ -24,7 +24,7 @@ function NavLink({
   return (
     <Link
       href={href}
-      className="transition hover:text-lime-500 dark:hover:text-lime-400"
+      className="transition hover:text-sky-500 dark:hover:text-sky-400"
     >
       {children}
     </Link>
