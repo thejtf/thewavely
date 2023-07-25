@@ -85,17 +85,17 @@ export default function AskMeAnythingPage() {
           </span>
         </p>
         <p>
-          添加时请注明来意为，加入{' '}
+          添加时请注明来意为{' '}
           <RichLink
             href="https://thewavely.com"
             target="_blank"
           >
-            精读营
+            加入精读营
           </RichLink>
-          根据小助理提示完成支付验证后，即可入营。
+          然后，根据小助理提示完成支付验证后，即可入营。
         </p>
 
-        <h2>感谢信</h2>
+        <h2>成员评价</h2>
         <p>
           下面两个截图摘选自两名 Twitter
           朋友的私信，能够帮助到更多的人一直是我的使命：
