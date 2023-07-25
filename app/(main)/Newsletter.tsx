@@ -82,11 +82,11 @@ export function Newsletter({ subCount }: { subCount?: string }) {
         <span className="ml-2">动态更新</span>
       </h2>
       <p className="mt-2 text-xs text-zinc-600 dark:text-zinc-400 md:text-sm">
-        <span>喜欢浪潮外刊的话不妨订阅支持一下 🫶</span>
+        <span>喜欢浪潮外刊的话可以订阅支持一下鸭 🫶</span>
         <br />
         {subCount && (
           <span>
-            加入其他 <span className="font-medium">{subCount}</span> 位订阅者，
+            已经有 <span className="font-medium">{subCount}</span> 位订阅者加入了，
           </span>
         )}
         <span>每周一封，随时可以取消订阅。</span>
