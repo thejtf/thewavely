@@ -19,7 +19,7 @@ const resume: Resume[] = [
     company: 'Laura',
     title: '内容总编',
     logo: zolplayLogo,
-    start: '2021级',
+    start: '2020级',
     end: {
       label: '哈尔滨工业大学',
       dateTime: new Date().getFullYear(),
@@ -29,7 +29,7 @@ const resume: Resume[] = [
     company: 'Jony',
     title: '运营编辑',
     logo: vvsLogo,
-    start: '2020级',
+    start: '2021级',
     end: '北京外国语大学',
   },
   {
@@ -37,14 +37,14 @@ const resume: Resume[] = [
     title: '审核编辑',
     logo: eightNinthsLogo,
     start: '2020级',
-    end: '曼彻斯特大学',
+    end: '北京大学',
   },
   {
     company: 'Charles',
     title: '助理编辑',
     logo: abletiveLogo,
-    start: '2022级',
-    end: '北京大学',
+    start: '2020级',
+    end: '东北农业大学',
   },
 ]
 
