@@ -121,7 +121,7 @@ export async function Footer() {
             </div>
             <div className="flex flex-col items-center justify-between gap-6 sm:flex-row">
               <p className="text-sm text-zinc-500/80 dark:text-zinc-400/80">
-                &copy; {new Date().getFullYear()} 浪潮外刊 The Wavely. 播客：
+                &copy; {new Date().getFullYear()} 浪潮外刊TheWavely. 播客：
                 <PeekabooLink href="https://fm.thewavely.com">
                   Podcast
                 </PeekabooLink>
