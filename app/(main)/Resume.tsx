@@ -44,7 +44,7 @@ const resume: Resume[] = [
     title: '助理编辑',
     logo: abletiveLogo,
     start: '2020级',
-    end: '武汉大学',
+    end: '华中科技大学',
   },
 ]
 
