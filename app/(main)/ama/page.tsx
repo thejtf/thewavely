@@ -95,10 +95,10 @@ export default function AskMeAnythingPage() {
           。然后，根据小助理提示完成支付验证后，即可入营。
         </p>
 
-        <h2>成员评价</h2>
+        <h2>社区评论</h2>
         <p>
-          下面两个截图摘选自两名 同学
-          的分享，阅读外刊不仅提高应试能力还能提高人的视野：
+          下面两个截图摘选来自某社交媒体同学
+          的分享，阅读外刊不仅提高应试能力还能提高人的视野。
         </p>
         <p className="grid items-center gap-4 lg:grid-cols-2">
           <Image
