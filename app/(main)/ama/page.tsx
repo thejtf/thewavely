@@ -81,11 +81,11 @@ export default function AskMeAnythingPage() {
         <p className="flex justify-center md:block md:justify-start">
           <span className="inline-flex flex-col items-center">
             <Image src={AlipayQR} alt="" className="w-44 dark:brightness-90" />
-            <span className="mt-1 text-sm font-medium">小助理二维码</span>
+            <span className="mt-1 text-sm font-medium">微信二维码</span>
           </span>
         </p>
         <p>
-          添加时请注明来意为{' '}
+          添加申请时请注明来意为{' '}
           <RichLink
             href="https://thewavely.com/ama"
             target="_blank"
