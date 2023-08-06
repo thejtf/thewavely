@@ -97,8 +97,8 @@ export default function AskMeAnythingPage() {
 
         <h2>社区评论</h2>
         <p>
-          下面两个截图摘选来自某社交媒体同学
-          的分享，阅读外刊不仅提高应试能力还能提高人的视野。
+          下面两个截图摘选来自社交媒体同学
+          的分享，精读外刊不仅提高应试能力、发现学语言的思维、还能提高人的视野。
         </p>
         <p className="grid items-center gap-4 lg:grid-cols-2">
           <Image
