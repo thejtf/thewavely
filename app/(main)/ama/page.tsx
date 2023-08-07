@@ -87,7 +87,7 @@ export default function AskMeAnythingPage() {
         <p>
           添加申请时请注明来意为{' '}
           <RichLink
-            href="https://thewavely.com/ama"
+            href="https://wj.qq.com/s2/12892874/3909/"
             target="_blank"
           >
             加入精读营
