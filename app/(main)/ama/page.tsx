@@ -71,10 +71,10 @@ export default function AskMeAnythingPage() {
         <p>加入 Reading Club 的价格为：</p>
         <ul>
           <li>
-            <strong>¥129 - 三个月</strong>
+            <strong>¥128 - 三个月</strong>
           </li>
           <li>
-            <strong>¥199 - 半年期</strong>
+            <strong>¥198 - 半年期</strong>
           </li>
         </ul>
 
