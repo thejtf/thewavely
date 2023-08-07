@@ -30,7 +30,7 @@ const resume: Resume[] = [
     title: '运营编辑',
     logo: vvsLogo,
     start: '2021级',
-    end: '北京外国语大学',
+    end: '曼彻斯特大学',
   },
   {
     company: 'Adelaide',
