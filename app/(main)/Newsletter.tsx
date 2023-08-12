@@ -86,7 +86,7 @@ export function Newsletter({ subCount }: { subCount?: string }) {
         <br />
         {subCount && (
           <span>
-            已经有 <span className="font-medium">{subCount}</span> 位同学加入，
+            已有 <span className="font-medium">{subCount}</span> 位同学加入，
           </span>
         )}
         <span>限时免费，每周一封。</span>
