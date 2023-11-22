@@ -27,7 +27,7 @@ const resume: Resume[] = [
   },
   {
     company: 'Jony',
-    title: '运营编辑',
+    title: '选题编辑',
     logo: vvsLogo,
     start: '2021级',
     end: '曼彻斯特大学',
@@ -40,11 +40,11 @@ const resume: Resume[] = [
     end: '北京大学',
   },
   {
-    company: 'Charles',
-    title: '助理编辑',
+    company: 'Jopus',
+    title: '运营编辑',
     logo: abletiveLogo,
-    start: '2020级',
-    end: '华中科技大学',
+    start: '2023级',
+    end: '哈尔滨工业大学',
   },
 ]
 
