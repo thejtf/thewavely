@@ -8,14 +8,14 @@ import { BlogPosts } from './BlogPosts'
 const description =
   '阅读外刊是提高英语水平，获取丰富多样性信息的重要途径。外刊文章语言地道流畅，不仅可以增强英语阅读和写作能力，还可以提高我们的英语思维和应考能力。浪潮外刊收录涵盖全球经济、社会、文化等多个领域权威杂志期刊，下面是本刊的近期公告。'
 export const metadata = {
-  title: '最新外刊',
+  title: '本刊公告',
   description,
   openGraph: {
-    title: '最新外刊',
+    title: '本刊公告',
     description,
   },
   twitter: {
-    title: '最新外刊',
+    title: '本刊公告',
     description,
     card: 'summary_large_image',
   },
